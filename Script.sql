@@ -1,0 +1,3 @@
+go
+
+select getdate()
